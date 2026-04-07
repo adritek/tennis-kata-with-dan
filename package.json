@@ -1,0 +1,21 @@
+{
+  "name": "tennis-kata",
+  "version": "1.0.0",
+  "description": "learn functional programming",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.3.0",
+    "ts-jest": "^29.4.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2",
+    "@jest/globals": "^30.3.0"
+  }
+}
